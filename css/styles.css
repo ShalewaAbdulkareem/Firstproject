@@ -1,7 +1,7 @@
 h1{
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 35px;
+    font-size: 50px;
     background-color: teal;
     color:white;
     padding: 25px;
@@ -11,4 +11,13 @@ p{
     font-size: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: turquoise;
+}
+
+h2{
+    text-align: left;
+    font-size: 40;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: darkcyan;
+    padding: 25px;
+    margin: 20px
 }
