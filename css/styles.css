@@ -10,7 +10,7 @@ h1{
 p{
     font-size: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    color: turquoise;
+    color:black;
 }
 
 h2{
@@ -20,4 +20,18 @@ h2{
     color: darkcyan;
     padding: 25px;
     margin: 20px
+}
+
+.heading {
+background-color: darkgreen;
+font-size: 60px;
+color: darkgrey;
+text-align:center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.spanning .span{
+    font-size: 35px;
+    color: purple;
+    text-transform: capitalize;
 }
